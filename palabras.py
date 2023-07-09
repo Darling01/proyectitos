@@ -1,0 +1,1 @@
+palabras = ["hola", "adios"]
